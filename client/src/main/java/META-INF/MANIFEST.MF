@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: https://www.jetbrains.com/help/idea/2016.1/registering-git
+ hub-account-in-intellij-idea.html
+
